@@ -43,9 +43,9 @@
 <br>
 <div align="center">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=expressionless20&theme=discord" alt="expressionless20" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=expressionless20&show_icons=true&locale=en&layout=compact" alt="expressionless20" /></p>
+<p><img src="https://github-readme-stats-expressionless20.vercel.app/api?username=expressionless20&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="shibinthomas" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=expressionless20&show_icons=true&locale=en" alt="expressionless20" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=expressionless20&" alt="expressionless20" /></p>
+<p><a href="http://www.github.com/expressionless20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=expressionless20&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a></p>
 <p><img src="https://metrics.lecoq.io/expressionless20?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">	</p>
 <h1 align="center">T H A N K Y O U !</h1>
 <div align="center">
