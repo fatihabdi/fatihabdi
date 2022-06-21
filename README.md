@@ -34,6 +34,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=expressionless20&show_icons=true&locale=en&layout=compact" alt="expressionless20" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=expressionless20&show_icons=true&locale=en" alt="expressionless20" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=expressionless20&" alt="expressionless20" /></p>
+<p><img src="https://metrics.lecoq.io/expressionless20?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">	</p>
 <h1 align="center">T H A N K Y O U !</h1>
 <div align="center">
 </div>
