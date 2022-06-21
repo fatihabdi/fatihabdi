@@ -30,8 +30,6 @@
  <em><b>- Henry Ford</b></em>
 <br><br/>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=expressionless20&theme=discord" alt="expressionless20" /></a> </p>
-<br>
 <h3>Languages and Tools:</h3>
 <p>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -44,6 +42,7 @@
 </p>
 <br>
 <div align="center">
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=expressionless20&theme=discord" alt="expressionless20" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=expressionless20&show_icons=true&locale=en&layout=compact" alt="expressionless20" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=expressionless20&show_icons=true&locale=en" alt="expressionless20" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=expressionless20&" alt="expressionless20" /></p>
