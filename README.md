@@ -2,7 +2,7 @@
 <h3 align="center">High interest in Front-end Development, and Back-end Development.</h3>
 <div align="center">
 </div>
-🔗 **Connect with me**
+<h3>Connect With Me :</h3>
 <p align="left">
 <a href="https://discordapp.com/channels/@me/Zetsuken#1881/">
   <img align="left" alt="Fatih's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
