@@ -1,24 +1,36 @@
-<h1 align="center">Hi, I'm Abdi Fatih</h1>
+# Hi, I'm Shibin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> ![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.itsmeshibintmz&style=default)
 <h3 align="center">High interest in Front-end Development, and Back-end Development.</h3>
 <div align="center">
 </div>
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://discordapp.com/channels/@me/Zetsuken#1881/">
+  <img align="left" alt="Fatih's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.instagram.com/patehabdi/">
+  <img align="left" alt="Fatih's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+</a>
+<a href="https://open.spotify.com/user/d05mga59splsynzbxre5303tm">
+  <img align="left" alt="Fatih's Spotify" width="22px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" />
+</a>
+<a href="https://www.linkedin.com/in/fatihabdi/" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/linkedin-circled.png" alt="fatihabdi" height="40" width="40" />
+</a>
+<a href="https://stackoverflow.com/users/19386072/abdi-fatih" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="22px" align="left" />
+</a>
+<a href="https://steamcommunity.com/id/patehh/"> 
+  <img align="left" alt="Fatih's Steam" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/steam-icon-14883.png" />
+</a>
+
+<br />
+</h1>
+
+<p align='center'><em><b>Coming together is a beginning; keeping together is progress; working together is success.</b></em>
+<br/>
+ <em><b>- Henry Ford</b></em>
+<br><br/>
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=expressionless20&theme=discord" alt="expressionless20" /></a> </p>
-
-
-
-- 🌱 I’m currently learning **Laravel**
-
-- 📫 How to reach me **dotaawtf23@gmail.com**
-
-
 <br>
-<h3>Connect with me:</h3>
-<p>
-<a href="https://www.linkedin.com/in/fatihabdi/" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/linkedin-circled.png" alt="fatihabdi" height="40" width="40" /></a>
-<a href="https://www.facebook.com/abdi.fatih/" target="blank"><img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" alt="abdi.fatih" height="30" width="40" /></a>
-<a href="https://www.instagram.com/patehabdi/" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/instagram-new.png" alt="patehabdi" height="40" width="40" /></a>
-
 <h3>Languages and Tools:</h3>
 <p>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
