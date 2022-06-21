@@ -4,7 +4,6 @@
 </div>
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=expressionless20" alt="expressionless20" /></a> </p>
-<img src="https://media.giphy.com/media/o7f8rvkZIbtgKP93iq/giphy.gif" align="right">
 
 
 - 🔭 I’m currently working on **Self employed(Looking for an Internship Opportunity)**
@@ -37,7 +36,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=expressionless20&show_icons=true&locale=en&layout=compact" alt="expressionless20" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=expressionless20&show_icons=true&locale=en" alt="expressionless20" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=expressionless20&" alt="expressionless20" /></p>
-<h1 align="center">【T】【H】【A】【N】【K】 【Y】【O】【U】【!】</h1>
+<h1 align="center">T H A N K Y O U !</h1>
 <div align="center">
 </div>
 </div>
