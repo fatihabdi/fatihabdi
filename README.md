@@ -46,6 +46,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=expressionless20&theme=dark&show_icons=true" alt="expressionless20" /></p>
 <p><a href="http://www.github.com/expressionless20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=expressionless20&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a></p>
 <p><img src="https://metrics.lecoq.io/expressionless20?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">	</p>
+  <br/>
+   <a href="https://github.com/expressionless20"><img alt="Fatih's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=expressionless20&custom_title=Abdi'%20Fatih's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 <div align="center">
 </div>
 </div>
