@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Abdi Fatih</h1>
+<h1 align="center">Hi, I'm Abdi Fatih</h1>
 <h3 align="center">High interest in Front-end Development, and Back-end Development.</h3>
 <div align="center">
 </div>
