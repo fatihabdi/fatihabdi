@@ -6,11 +6,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=expressionless20&theme=discord" alt="expressionless20" /></a> </p>
 
 
-- 🔭 I’m currently working on **Self employed(Looking for an Internship Opportunity)**
 
-- 🌱 I’m currently learning **Laravel, and Database**
-
-- 💬 Ask me about **Anything**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **dotaawtf23@gmail.com**
 
