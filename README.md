@@ -1,8 +1,8 @@
-# Hi, I'm Shibin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> ![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.itsmeshibintmz&style=default)
+# Hi, I'm Fatih <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> ![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.itsmeshibintmz&style=default)
 <h3 align="center">High interest in Front-end Development, and Back-end Development.</h3>
 <div align="center">
 </div>
-🔗 &nbsp;**Connect with me**
+🔗 **Connect with me**
 <p align="left">
 <a href="https://discordapp.com/channels/@me/Zetsuken#1881/">
   <img align="left" alt="Fatih's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -13,7 +13,8 @@
 <a href="https://open.spotify.com/user/d05mga59splsynzbxre5303tm">
   <img align="left" alt="Fatih's Spotify" width="22px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" />
 </a>
-<a href="https://www.linkedin.com/in/fatihabdi/" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/linkedin-circled.png" alt="fatihabdi" height="40" width="40" />
+<a href="https://www.linkedin.com/in/fatihabdi/">
+  <img align="left" alt="Fatih's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://stackoverflow.com/users/19386072/abdi-fatih" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="22px" align="left" />
 </a>
