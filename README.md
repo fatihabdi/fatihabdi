@@ -43,12 +43,12 @@
 </p>
 <br>
 <div align="center">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=expressionless20&theme=discord" alt="expressionless20" /></a></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=expressionless20&theme=dark&show_icons=true" alt="expressionless20" /></p>
-<p><a href="http://www.github.com/expressionless20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=expressionless20&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a></p>
-<p><img src="https://metrics.lecoq.io/expressionless20?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">	</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihabdi&theme=discord" alt="fatihabdi" /></a></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihabdi&theme=dark&show_icons=true" alt="fatihabdi" /></p>
+<p><a href="http://www.github.com/fatihabdi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fatihabdi&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a></p>
+<p><img src="https://metrics.lecoq.io/fatihabdi?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">	</p>
   <br/>
-   <a href="https://github.com/expressionless20"><img alt="Fatih's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=expressionless20&custom_title=Abdi%20Fatih's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/fatihabdi"><img alt="Fatih's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fatihabdi&custom_title=Abdi%20Fatih's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 <div align="center">
 </div>
