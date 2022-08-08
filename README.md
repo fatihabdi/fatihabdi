@@ -22,7 +22,6 @@
 <a href="https://steamcommunity.com/id/patehh/"> 
   <img align="left" alt="Fatih's Steam" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/steam-icon-14883.png" />
 </a>
-
 <br />
 </h1>
 
